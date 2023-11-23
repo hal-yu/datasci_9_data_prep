@@ -44,7 +44,7 @@ len(df)
 df.dropna(inplace=True)
 len(df)
 
-# Define the features and the target variable "sex"
+# Define the features and the target variable "leading_cause"
 X = df.drop('leading_cause', axis=1) 
 y = df['leading_cause'] 
 
