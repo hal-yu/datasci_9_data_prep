@@ -1,0 +1,27 @@
+leading_cause,leading_cause_ordinal
+"Accidents Except Drug Poisoning (V01-X39, X43, X45-X59, Y85-Y86)",0
+"Accidents Except Drug Posioning (V01-X39, X43, X45-X59, Y85-Y86)",1
+All Other Causes,2
+Alzheimer's Disease (G30),3
+"Assault (Homicide: U01-U02, Y87.1, X85-Y09)",4
+"Assault (Homicide: Y87.1, X85-Y09)",5
+Cerebrovascular Disease (Stroke: I60-I69),6
+Certain Conditions originating in the Perinatal Period (P00-P96),7
+"Chronic Liver Disease and Cirrhosis (K70, K73)",8
+"Chronic Liver Disease and Cirrhosis (K70, K73-K74)",9
+Chronic Lower Respiratory Diseases (J40-J47),10
+"Congenital Malformations, Deformations, and Chromosomal Abnormalities (Q00-Q99)",11
+Diabetes Mellitus (E10-E14),12
+"Diseases of Heart (I00-I09, I11, I13, I20-I51)",13
+"Essential Hypertension and Renal Diseases (I10, I12)",14
+Human Immunodeficiency Virus Disease (HIV: B20-B24),15
+Influenza (Flu) and Pneumonia (J09-J18),16
+"Intentional Self-Harm (Suicide: U03, X60-X84, Y87.0)",17
+"Intentional Self-Harm (Suicide: X60-X84, Y87.0)",18
+Malignant Neoplasms (Cancer: C00-C97),19
+"Mental and Behavioral Disorders due to Accidental Poisoning and Other Psychoactive Substance Use (F11-F16, F18-F19, X40-X42, X44)",20
+Mental and Behavioral Disorders due to Use of Alcohol (F10),21
+"Nephritis, Nephrotic Syndrome and Nephrisis (N00-N07, N17-N19, N25-N27)",22
+Parkinson's Disease (G20),23
+Septicemia (A40-A41),24
+Viral Hepatitis (B15-B19),25
